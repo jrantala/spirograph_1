@@ -1,0 +1,8 @@
+canvas {background-color:black; float:left; padding:0px; margin:0px;}
+body {background-color:black;}
+.command_button {font-family:Arial; background-color:black; color:white; font-size:25px;}
+.click_4 {float:left; width:100px; font-size:20px;}
+
+#clean_button {float:left; width:120px;}
+#stop_button {float:right; width:45px;}
+#controls {position:absolute; top:310px; left:0px; width:300px; background-color:black; color:white;}
